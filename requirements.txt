@@ -1,0 +1,10 @@
+tensorflow>=2.8.0
+streamlit
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+plotly
